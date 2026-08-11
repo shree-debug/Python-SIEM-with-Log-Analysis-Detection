@@ -1,0 +1,9 @@
+Python SIEM with Log Analysis & Detection
+
+This project lets you build the core of a SIEM: collecting logs, parsing them, and writing detection rules.
+
+Key features:
+
+· Log collection and parsing
+· Detection rules for brute-force, URL scans, high request rates, and server error spikes
+· Console alertin
